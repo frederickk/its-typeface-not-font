@@ -11,14 +11,14 @@ This is a public service offering from [LocalDesignersUnion](https://www.flickr.
 - [Typeface](http://en.wikipedia.org/wiki/Typeface)
 
 
-![It's Typeface Not Font](http://frederickk.github.io/its-typeface-not-font/its-typeface-not-font.jpg)
-
-
-Thanks to the creators of [Cloud-to-Butt](https://github.com/panicsteve/cloud-to-butt)
-
-
 Installation
 ------------
 
 In Chrome, choose Window > Extensions.  Drag `TypefaceNotFont.crx` into the page that appears.
+
+
+![It's Typeface Not Font](http://frederickk.github.io/its-typeface-not-font/its-typeface-not-font.jpg)
+
+
+Thanks to the creators of [Cloud-to-Butt](https://github.com/panicsteve/cloud-to-butt)
 
