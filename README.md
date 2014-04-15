@@ -3,7 +3,7 @@ It's Typeface Not Font
 
 Chrome extension that rectifies a common misunderstanding. Because it's "typeface" not "font."
 
-[Download Extension](https://github.com/frederickk/its-typeface-not-font/blob/master/TypefaceNotFont.crx?raw=true)
+[Download Extension](https://github.com/frederickk/its-typeface-not-font/blob/master/typeface-not-font.crx?raw=true)
 
 This is a public service offering from [LocalDesignersUnion](https://www.flickr.com/photos/localdesignersunion/). For further explanation
 - [They're not Fonts](http://www.aiga.org/theyre-not-fonts/)
