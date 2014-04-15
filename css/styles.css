@@ -1,0 +1,24 @@
+.center {
+  text-align: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+.align-middle {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  display: table;
+}
+
+.align-middle .middle {
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
