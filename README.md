@@ -20,5 +20,5 @@ In Chrome, choose Window > Extensions.  Drag `TypefaceNotFont.crx` into the page
 ![It's Typeface Not Font](http://frederickk.github.io/its-typeface-not-font/its-typeface-not-font.jpg)
 
 
-Thanks to the creators of [Cloud-to-Butt](https://github.com/panicsteve/cloud-to-butt)
+Inspired in part by the creators of [Cloud-to-Butt](https://github.com/panicsteve/cloud-to-butt)
 
